@@ -1,37 +1,61 @@
-## Welcome to GitHub Pages
+# Dayne Michael Moonsamy
+## Curriculum Vitae
 
-You can use the [editor on GitHub](https://github.com/DayneSilver/DayneSilver.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
+### About Me
+My name is Dayne. I am a Computer Science student studying at the University of Pretoria in my final year. I've loved coding since I was young and never thought I would get the chance to actually be striving to a career in it. I am dedicated to becoming the best to whatever I set out to do.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Education
 
 ```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
+I went to High School at Felixton College in KZN, South Africa and achieved an IEB National Senior Certificate.
 
-- Bulleted
-- List
+## University subject passed
+**Core Modules passed at University of Pretoria:**
+-COS132 Imperative Programming
+-COS110 Program design: Introduction
+-COS151 Introduction to Computer Science
+-COS121 Software Modelling
+-COS122 Operating systems
+-COS212 Data structures and algorithms
+-COS216 Netcentric Computer Systems
+-COS226 Concurrent Systems
+-COS210 Theoretical computer science 210
+-COS214 Software modelling 214
+-COS221 Introduction to database systems 221
 
-1. Numbered
-2. List
+**Other Modules passed:**
+-CMY117 General chemistry 117
+-CMY127 General chemistry 127
+-WTW115 Discrete Structures
+-WTW285 Discrete Structures
+-WTW162 Mathematical modelling
+-WTW124 Calculus and Algebra
+-FSK176 Physics 176
+-HAS110 Humanities and social sciences 110
+-HAS120 Humanities and social sciences 120
+-CHM171 General chemistry 171
+-WTW164 Mathematics 164
+-MPR213 Programming and information technology 213
+-BES220 Engineering statistics 220
+-CIR113 Chemical engineering 113
+-STK 110 Descriptive Statistics
+-STK 120 Multivariate Statistics
+-EBN111 Electricity and electronics 111
+-JCP203 Community-based project 203
+-MGC110 Graphical communication 110
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### Languages & Skills
 
-### Jekyll Themes
+-Adept in Python, C++, Java, JavaScript, CSS3, HTML5 and PHP
+-Good communication skills
+-Dedicated
+-Attention to detail
+-Drivers License
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/DayneSilver/DayneSilver.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact
+Cell: 0718519118
+Email: daynemoonsamy1111@gmail.com
