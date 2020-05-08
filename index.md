@@ -22,7 +22,7 @@ I went to High School at Felixton College in KZN, South Africa and achieved an I
 - COS214 Software modelling 214
 - COS221 Introduction to database systems 221
 
-**Other Modules passed:**
+**Other Modules passed:** 
 - CMY117 General chemistry 117
 - CMY127 General chemistry 127
 - WTW115 Discrete Structures
