@@ -47,7 +47,7 @@ I went to High School at Felixton College in KZN, South Africa and achieved an I
 
 ### Languages & Skills
 
-- Adept in Python, C++, Java, JavaScript, CSS3, HTML5 and PHP
+- Adept in Python, C++, Java, JavaScript, CSS3, HTML5, WebGL and LAMP stack 
 - Good communication skills
 - Dedicated
 - Attention to detail
@@ -64,5 +64,5 @@ I went to High School at Felixton College in KZN, South Africa and achieved an I
 
 ### Contact
 Cell: 0718519118
-
+Github: DayneSilver
 Email: daynemoonsamy1111@gmail.com
