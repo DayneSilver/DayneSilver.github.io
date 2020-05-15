@@ -2,7 +2,7 @@
 ## Curriculum Vitae
 
 ### About Me
-My name is Dayne. I am a Computer Science student studying at the University of Pretoria in my final year. I've loved coding since I was young and never thought I would get the chance to actually be striving to a career in it. I am dedicated to becoming the best to whatever I set out to do.
+My name is Dayne. I am a Bsc Computer Science student studying at the University of Pretoria in my final year. I've loved coding since I was young and never thought I would get the chance to actually be striving to a career in it. I am dedicated to becoming the best to whatever I set out to do. 
 
 ### Education
 
@@ -52,7 +52,15 @@ I went to High School at Felixton College in KZN, South Africa and achieved an I
 - Dedicated
 - Attention to detail
 - Drivers License
+- Creative
 
+### Interests
+
+- Reading
+- Gaming
+- AI
+- Soccer
+- 
 
 ### Contact
 Cell: 0718519118
