@@ -60,7 +60,7 @@ I went to High School at Felixton College in KZN, South Africa and achieved an I
 - Gaming
 - AI
 - Soccer
-- 
+- Piano
 
 ### Contact
 Cell: 0718519118
