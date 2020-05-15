@@ -63,6 +63,7 @@ I went to High School at Felixton College in KZN, South Africa and achieved an I
 - Piano
 
 ### Contact
-Cell: 0718519118
-Github: DayneSilver
-Email: daynemoonsamy1111@gmail.com
+- Cell: 0718519118
+- Github: https://github.com/DayneSilver
+- Email: daynemoonsamy1111@gmail.com
+- Linkedin- https://www.linkedin.com/in/dayne-moonsamy-192a971a6/
