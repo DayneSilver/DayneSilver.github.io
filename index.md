@@ -2,7 +2,7 @@
 ## Curriculum Vitae
 
 ### About Me
-My name is Dayne. I am a Bsc Computer Science student studying at the University of Pretoria in my final year. I've loved coding since I was young and never thought I would get the chance to actually be striving to a career in it. I am dedicated to becoming the best to whatever I set out to do. 
+My name is Dayne. I am a Bsc Computer Science student studying at the University of Pretoria in my final year. I've loved coding since I was young and never thought I would get the chance to actually be studying to a career in it. I am dedicated to becoming the best to whatever I set out to do. 
 
 ### Education
 
@@ -47,7 +47,7 @@ I went to High School at Felixton College in KZN, South Africa and achieved an I
 
 ### Languages & Skills
 
-- Adept in Python, C++, Java, JavaScript, CSS3, HTML5, WebGL and LAMP stack 
+- Adept in Python, C++, Java, JavaScript, CSS3, HTML5, WebGL, REACT and LAMP stack 
 - Good communication skills
 - Dedicated
 - Attention to detail
