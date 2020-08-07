@@ -47,7 +47,7 @@ I went to High School at Felixton College in KZN, South Africa and recieved an I
 
 
 
-### Languages & Skills
+## Languages & Skills
 
 - Adept in Python, C++, Java, JavaScript, CSS3, HTML5, WebGL, REACT and LAMP stack 
 - Good communication skills and Team player
@@ -56,7 +56,7 @@ I went to High School at Felixton College in KZN, South Africa and recieved an I
 - Drivers License
 - Creative
 
-### Interests
+## Interests
 
 - Reading
 - AI
@@ -64,7 +64,7 @@ I went to High School at Felixton College in KZN, South Africa and recieved an I
 - Piano
 - Gaming
 
-### Contact
+## Contact
 - Cell: 0718529118
 - Github: https://github.com/DayneSilver
 - Email: daynemoonsamy1111@gmail.com
