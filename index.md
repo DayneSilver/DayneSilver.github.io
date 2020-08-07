@@ -2,11 +2,11 @@
 ## Curriculum Vitae
 
 ### About Me
-My name is Dayne. I am a Bsc Computer Science student studying at the University of Pretoria in my final year. I've loved coding since I was young and never thought I would get the chance to actually be studying to a career in it. I am dedicated to becoming the best to whatever I set out to do. 
+My name is Dayne. I am a Bsc Computer Science student studying at the University of Pretoria in my final year. I've loved coding since I was young and have been interested in learning about new technologies ever since. I am dedicated to becoming the best to whatever I set out to do. 
 
 ### Education
 
-I went to High School at Felixton College in KZN, South Africa and achieved an IEB National Senior Certificate.
+I went to High School at Felixton College in KZN, South Africa and recieved an IEB National Senior Certificate.
 
 ## University
 **Core Modules passed at University of Pretoria:**
@@ -21,6 +21,8 @@ I went to High School at Felixton College in KZN, South Africa and achieved an I
 - COS210 Theoretical computer science 210
 - COS214 Software modelling 214
 - COS221 Introduction to database systems 221
+- COS 332 Computer Networks
+- COS 341 Compiler Contrustion
 
 **Other Modules passed:** 
 - CMY117 General chemistry 117
@@ -48,22 +50,22 @@ I went to High School at Felixton College in KZN, South Africa and achieved an I
 ### Languages & Skills
 
 - Adept in Python, C++, Java, JavaScript, CSS3, HTML5, WebGL, REACT and LAMP stack 
-- Good communication skills
-- Dedicated
-- Attention to detail
+- Good communication skills and Team player
+- Eager to Learn
+- Clean, clear code
 - Drivers License
 - Creative
 
 ### Interests
 
 - Reading
-- Gaming
 - AI
-- Soccer
+- Theatre
 - Piano
+- Gaming
 
 ### Contact
-- Cell: 0718519118
+- Cell: 0718529118
 - Github: https://github.com/DayneSilver
 - Email: daynemoonsamy1111@gmail.com
 - Linkedin- https://www.linkedin.com/in/dayne-moonsamy-192a971a6/
