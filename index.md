@@ -46,10 +46,9 @@ I went to High School at Felixton College in KZN, South Africa and recieved an I
 - MGC110 Graphical communication 110
 
 
-
 ## Languages & Skills
 
-- Adept in Python, C++, Java, JavaScript, CSS3, HTML5, WebGL, REACT and LAMP stack 
+- Adept in Python, C++, Java, JavaScript, CSS3, HTML5, WebGL, REACT, React-Native and LAMP stack 
 - Good communication skills and Team player
 - Eager to Learn
 - Clean, clear code
