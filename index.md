@@ -46,21 +46,34 @@ I went to High School at Felixton College in KZN, South Africa and recieved an I
 - MGC110 Graphical communication 110
 
 
-## Languages & Skills
+## Skills
+Computer Science student trained in:
+- Data Structures, Design Patterns and Database Systems
+as well as:
+-Python
+-C++
+-Java
+-JavaScript
+-CSS3
+-HTML5 
+-LAMP Stack
+-REACT
 
-- Adept in Python, C++, Java, JavaScript, CSS3, HTML5, WebGL, REACT, React-Native and LAMP stack 
-- Good communication skills and Team player
-- Eager to Learn
-- Clean, clear code
+
+## Attributes
 - Drivers License
 - Creative
+- Positive attitude and determined to succeed.
+- Good communication skills
+- Adaptable to new technology
+- Able to write clean, readable code
+- Able to navigate the flow of ideas and mitigate conflicts in a group environment. 
 
 ## Interests
 
 - Reading
 - AI
 - Theatre
-- Piano
 - Gaming
 
 ## Contact
