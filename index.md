@@ -50,14 +50,14 @@ I went to High School at Felixton College in KZN, South Africa and recieved an I
 Computer Science student trained in:
 - Data Structures, Design Patterns and Database Systems
 as well as:
--Python
--C++
--Java
--JavaScript
--CSS3
--HTML5 
--LAMP Stack
--REACT
+- Python
+- C++
+- Java
+- JavaScript
+- CSS3
+- HTML5 
+- LAMP Stack
+- REACT
 
 
 ## Attributes
