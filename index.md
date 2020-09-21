@@ -48,8 +48,10 @@ I went to High School at Felixton College in KZN, South Africa and recieved an I
 
 ## Skills
 Computer Science student trained in:
-- Data Structures, Design Patterns and Database Systems
+- Data Structures, Design Patterns and Database Systems.
+
 as well as:
+
 - Python
 - C++
 - Java
