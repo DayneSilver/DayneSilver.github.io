@@ -2,49 +2,17 @@
 ## Curriculum Vitae
 
 ### About Me
-My name is Dayne. I am a Bsc Computer Science student studying at the University of Pretoria in my final year. I've loved coding since I was young and have been interested in learning about new technologies ever since. I am dedicated to becoming the best to whatever I set out to do. 
+My name is Dayne. I am a Bsc Computer Science student studying at the University of Pretoria in my final year. I've loved coding since I was young and have been interested in learning about new technologies ever since. I am dedicated to becoming the best to whatever I set out to do and adapting to any challenge I may encounter. 
 
 ### Education
 
-I went to High School at Felixton College in KZN, South Africa and recieved an IEB National Senior Certificate.
+I attended high school at Felixton College in KZN, South Africa and recieved an IEB National Senior Certificate.
 
-## University
-**Core Modules passed at University of Pretoria:**
-- COS132 Imperative Programming
-- COS110 Program design: Introduction
-- COS151 Introduction to Computer Science
-- COS121 Software Modelling
-- COS122 Operating systems
-- COS212 Data structures and algorithms
-- COS216 Netcentric Computer Systems
-- COS226 Concurrent Systems
-- COS210 Theoretical computer science 210
-- COS214 Software modelling 214
-- COS221 Introduction to database systems 221
-- COS 332 Computer Networks
-- COS 341 Compiler Contrustion
+### Projects:
 
-**Other Modules passed:** 
-- CMY117 General chemistry 117
-- CMY127 General chemistry 127
-- WTW115 Discrete Structures
-- WTW285 Discrete Structures
-- WTW162 Mathematical modelling
-- WTW124 Calculus and Algebra
-- FSK176 Physics 176
-- HAS110 Humanities and social sciences 110
-- HAS120 Humanities and social sciences 120
-- CHM171 General chemistry 171
-- WTW164 Mathematics 164
-- MPR213 Programming and information technology 213
-- BES220 Engineering statistics 220
-- CIR113 Chemical engineering 113
-- STK 110 Descriptive Statistics
-- STK 120 Multivariate Statistics
-- EBN111 Electricity and electronics 111
-- JCP203 Community-based project 203
-- MGC110 Graphical communication 110
-
+Project Tree (2020) - A project management tool that visualizes the project in a tree format with the relevant tasks of the project linked and dependent on each other. My main focus was executing the User Management system for the web and mobile app. I worked primarily in React and Neo4j.
+Website Link: https://projecttree.herokuapp.com/
+Mobile download: https://drive.google.com/file/d/1xgWt-K9mzN6L9JeMkQ-rF9eO_YAiVuRY/view
 
 ## Skills
 Computer Science student trained in:
